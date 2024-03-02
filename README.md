@@ -1,6 +1,6 @@
-# ***UNKNOWN***
-UNKNOWN<br /><br />
-Status:**ALWAYS UPDATE**
+# ***REAL-TIME GITHUB ISSUES PROCESSOR***
+The project is created for managing all the github issues produced in different repositories and then send the issues to the consumer using telegram bot.<br /><br />
+Status:**COMPLETED**
 --------------------------------------------------------------------
 ### *REAL-TIME PROGRAMMING*<br /><br />
 NAME:_CHONG LI XIANG_<br />
