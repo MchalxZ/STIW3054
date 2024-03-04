@@ -1,4 +1,4 @@
-package my.uum;
+package uum;
 
 public class GithubContent {
 

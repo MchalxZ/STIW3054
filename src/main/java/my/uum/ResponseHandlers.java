@@ -1,4 +1,4 @@
-package my.uum;
+package uum;
 
 import org.telegram.abilitybots.api.db.DBContext;
 import org.telegram.abilitybots.api.sender.SilentSender;

@@ -1,4 +1,4 @@
-package my.uum;
+package uum;
 
 import com.google.gson.JsonParseException;
 

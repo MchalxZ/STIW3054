@@ -1,7 +1,5 @@
 # ***REAL-TIME GITHUB ISSUES PROCESSOR***
 The project is created through SpringBoot applications along with Apache Kafka for managing all the GitHub issues produced in different repositories and then send the issues to the consumer using telegram bot.<br /><br />
-
-
 Status:**COMPLETED**
 --------------------------------------------------------------------
 ### *REAL-TIME PROGRAMMING*<br /><br />
