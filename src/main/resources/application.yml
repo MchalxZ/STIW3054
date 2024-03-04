@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+botToken: "your bot token"
+
+github:
+  api:
+    url: https://api.github.com
+

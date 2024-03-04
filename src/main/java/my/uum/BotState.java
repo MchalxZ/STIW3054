@@ -1,0 +1,6 @@
+package my.uum;
+
+public enum BotState {
+    AWAITING_NAME,  GITHUB_ISSUE_SELECTION ,GITHUB_REPO_SELECTION, AWAITING_CONFIRMATION
+
+}
