@@ -39,8 +39,5 @@ MATRICNo:_284645_<br /><br />
 
 <br/>
 
-##### JAVADOC
-[JAVADOC.zip](JAVADOC)
-
 ------------------------------------------------------------------------------------------------------------------
 * [CLICK HERE TO GO BACK](https://github.com/MchalxZ)
